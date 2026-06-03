@@ -1,9 +1,11 @@
+
 # Hi there, I'm Meiweif! 👋 
 ### Developer & AI Enthusiast
 
 ---
 
 <img width="1479" height="902" alt="about" src="https://github.com/user-attachments/assets/7dff3c6e-a25a-49d2-bd7d-058f0fc0c94a" />
+
 
 ## 🚀 Main Focus
 I primarily focus on building extensions and software solutions for two major streaming platforms:
@@ -17,13 +19,3 @@ I am genuinely passionate about cutting-edge tech. I actively **integrate AI (Ar
 > ### 🛡️ Security & Privacy
 > * **Total Anonymity:** My extensions **do not collect**, **do not store**, and **do not request** any of your personal data.
 > * **Free to Use:** Currently, all of my projects are completely **free** and ready to use without entering any credentials.
-
-> [!CAUTION]
-> **Disclaimer:** All tools are provided on an "as-is" basis. You use my projects strictly at your own risk. The final decision to install and use them rests solely with you.
-
----
-
-## 💬 Contact
-* **Discord:** `@Meiweif`
-
-*Thank you for your time and for checking out my work!* 🌟
