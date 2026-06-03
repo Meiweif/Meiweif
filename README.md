@@ -3,8 +3,7 @@
 
 ---
 
-<img width="1536" height="1024" alt="about" src="https://github.com/user-attachments/assets/92753134-5b42-4ee6-aa88-bee0b7f0fb97" />
-
+<img width="1479" height="902" alt="about" src="https://github.com/user-attachments/assets/7dff3c6e-a25a-49d2-bd7d-058f0fc0c94a" />
 
 ## 🚀 Main Focus
 I primarily focus on building extensions and software solutions for two major streaming platforms:
